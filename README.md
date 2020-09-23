@@ -1,3 +1,10 @@
+
+<p align="center"> 
+  <h1> Snapshot of the Meme Generator </h1>
+    <img src="memesnapshot.png" align="center"></img>
+</p>
+=======
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
